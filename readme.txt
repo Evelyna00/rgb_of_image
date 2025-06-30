@@ -15,12 +15,12 @@ RGB (Red, Green, Blue) values within the selected portion.
 
 ## How to Use
 
-1. **Run the script**:
+1. Run the script:
     ```matlab
     select_rgb_region
     ```
 
-2. **Select an image** from your computer when prompted.
+2. Select an image from your computer when prompted.
 
 3. An image viewer will open. Use your mouse to draw a rectangle on the image over the region of interest.
 
