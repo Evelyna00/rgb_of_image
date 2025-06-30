@@ -24,7 +24,7 @@ RGB (Red, Green, Blue) values within the selected portion.
 
 3. An image viewer will open. Use your mouse to draw a rectangle on the image over the region of interest.
 
-4. Once the region is selected, release the mouse and the script will compute the **average RGB values**.
+4. Once the region is selected, release the mouse and the script will compute the average RGB values.
 
 5. The result will be printed in the MATLAB Command Window:
 
